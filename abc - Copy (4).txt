@@ -1,0 +1,3 @@
+to add files -- git add .
+to confirm -- git commit -m "I confirm"
+to push on GitHub -- git push
